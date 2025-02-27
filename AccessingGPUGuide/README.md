@@ -10,7 +10,7 @@ After the server iniates you can type
 
 ´´´bash http://localhost:8888
 ´´´
-#On your browser to open Jupyter lab, it might ask for a token, you cant find it on the logs
+#On your browser to open Jupyter lab, it might ask for a token, you can find it on the logs
 of that the jupyter server prints when initializing something like 
 
 ´´´bash https:1.1.20.30.20.token=sakdjsalkfjlq2321094823094jofj is it quite long.
