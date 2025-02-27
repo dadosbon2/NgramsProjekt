@@ -1,7 +1,7 @@
 #Instructions 
 
 you activate this by opening GitBash and 
-```bash
+```
 bash jupyterTunnel.sh
 ´´´
 
