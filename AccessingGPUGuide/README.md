@@ -2,8 +2,7 @@
 
 you activate this by opening GitBash and 
 ```bash
-bash jupyterTunnel.sh
-´´´
+bash jupyterTunnel.sh´´´
 
 Activate your enviroment in the server (ask for gpu is you want) and then use the normal jupyter lab command.
 After the server iniates you can type 
