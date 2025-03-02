@@ -1,6 +1,7 @@
 #Instructions 
 
-you activate this by opening GitBash and 
+!!! make sure to edit the ssh file with your username 
+you activate this by opening GitBash and typing
 ```
 bash jupyterTunnel.sh
 ´´´
