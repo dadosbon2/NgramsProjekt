@@ -29,6 +29,7 @@ As part of our Data Mining course, we reproduce selected experiments from the pa
 Install the dependencies:
 
 **pip install -r requirements.txt**
+
 Then run one of the experiment scripts
 
 The scripts generate outputs such as heatmaps, accuracy plots, and token-level comparisons.
