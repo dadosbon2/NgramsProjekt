@@ -6,10 +6,10 @@ This repository contains code and analysis for our project based on the paper
 # Project Description
 As part of our Data Mining course, we reproduce selected experiments from the paper and extend them with our own investigations. Our work includes:
 
-- Reproducing key figures (e.g. Figure 5: N-gram matching vs model predictions)
+- Reproducing Figure 5: N-gram matching vs model predictions
 
-- Implementing rule complexity analyses (σ-complexity)
-
+- Reproducing Table 13 & 14: Top-1 accuracy and average distance between model predictions and N-gram rules on TinyStories
+  
 - Designing new experiments to explore linguistic properties of N-gram rules
 
 - Writing a final report summarizing our results
