@@ -6,6 +6,8 @@ This repository contains code and analysis for our project based on the paper
 # Project Description
 As part of our Data Mining course, we reproduce selected experiments from the paper and extend them with our own investigations. Our work includes:
 
+- Finetuning of a 124 M gpt2 based model, as our replication of the small TinyStories Model 160 M presented during the paper
+
 - Reproducing Figure 5: N-gram matching vs model predictions
 
 - Reproducing Table 13 & 14: Top-1 accuracy and average distance between model predictions and N-gram rules on TinyStories
@@ -13,6 +15,8 @@ As part of our Data Mining course, we reproduce selected experiments from the pa
 - Designing new experiments to explore linguistic properties of N-gram rules
 
 - Writing a final report summarizing our results
+
+
 
 # Technologies
 * Python 3.10+
@@ -25,6 +29,10 @@ As part of our Data Mining course, we reproduce selected experiments from the pa
 
 * Matplotlib, Seaborn
 
+*Dask 
+
+*Logger
+
 # Usage
 Install the dependencies:
 
@@ -32,7 +40,7 @@ Install the dependencies:
 
 Then run one of the experiment scripts
 
-The scripts generate outputs such as heatmaps, accuracy plots, and token-level comparisons.
+The scripts generate outputs such as heatmaps, accuracy plots, token-level comparisons,and models with checkpoints reports for learning curve analysis
 
 # Structure
 - to be continued.....
