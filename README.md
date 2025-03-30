@@ -29,9 +29,9 @@ As part of our Data Mining course, we reproduce selected experiments from the pa
 
 * Matplotlib, Seaborn
 
-*Dask 
+* Dask 
 
-*Logger
+* Logger
 
 # Usage
 Install the dependencies:
