@@ -33,6 +33,8 @@ As part of our Data Mining course, we reproduce selected experiments from the pa
 
 * Logger
 
+* Collections
+
 # Usage
 Install the dependencies:
 
