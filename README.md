@@ -49,7 +49,7 @@ Our Github repository is divided into two main parts, and one miscellaneus folde
 
 - Model_Training_Scripts: this folders contains python scripts for the model training(finetuning), which save the output model in safetensors format for compatibility and security. For our project, the models trained were stored in (https://huggingface.co/dadosbon) and are open to public access.
 
--Replicates_and_Experiments: This folder contains 5 jupyter notebooks describing the experiments done during our project. eE_Kontexte.ipynb, eE_Modellvergleich, eERegeln_aus_fremden_datensätzen.ipynb, figure5_replicate.ipynb and replica_top1acc_distance.ipynb. Each notebook introduces a new experiment and explains the experiments and results
+- Replicates_and_Experiments: This folder contains 5 jupyter notebooks describing the experiments done during our project. eE_Kontexte.ipynb, eE_Modellvergleich, eERegeln_aus_fremden_datensätzen.ipynb, figure5_replicate.ipynb and replica_top1acc_distance.ipynb. Each notebook introduces a new experiment and explains the experiments and results
 
 
 # Contributors
